@@ -97,6 +97,13 @@ flutter run
 
 ---
 
+
+## 📥 Download APK
+
+[Download App](apk/smart_assistant.apk)
+
+---
+
 ## 📱 App Screens
 
 ### Home Screen
