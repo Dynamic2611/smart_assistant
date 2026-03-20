@@ -106,6 +106,7 @@ flutter run
 - Dark/Light theme toggle in the app bar
 - Quick access to Chat History
 
+
 ### Chat Screen
 - Send messages and receive intelligent, context-aware replies
 - Animated typing indicator while the assistant processes a response
@@ -120,6 +121,24 @@ flutter run
 
 ---
 
+## 📱 Screenshots
+
+### 🏠 Home
+![Home](assets/main_screen.jpeg)
+
+### 💬 Chat
+![Chat](assets/chat.jpeg)
+
+### 📜 History
+![History](assets/chat_history.jpeg)
+
+### ➕ New Chat
+![New Chat](assets/new_chat.jpeg)
+
+### 🌗 Theme
+![Theme](assets/day_theme.jpeg)
+
+---
 ## 🔌 API Layer
 
 The `ApiService` class simulates a real backend API with:
