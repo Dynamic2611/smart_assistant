@@ -83,7 +83,7 @@ lib/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<your-username>/smart_assistant.git
+git clone https://github.com/Dynamic2611/smart_assistant.git
 cd smart_assistant
 
 # 2. Install dependencies
