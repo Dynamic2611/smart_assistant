@@ -123,20 +123,17 @@ flutter run
 
 ## 📱 Screenshots
 
-### 🏠 Home
-![Home](assets/main_screen.jpeg)
 
-### 💬 Chat
-![Chat](assets/chat.jpeg)
+<p align="center">
+  <img src="assets/main_screen.jpeg" width="200"/>
+  <img src="assets/chat.jpeg" width="200"/>
+  <img src="assets/chat_history.jpeg" width="200"/>
+</p>
 
-### 📜 History
-![History](assets/chat_history.jpeg)
-
-### ➕ New Chat
-![New Chat](assets/new_chat.jpeg)
-
-### 🌗 Theme
-![Theme](assets/day_theme.jpeg)
+<p align="center">
+  <img src="assets/new_chat.jpeg" width="200"/>
+  <img src="assets/day_theme.jpeg" width="200"/>
+</p>
 
 ---
 ## 🔌 API Layer
